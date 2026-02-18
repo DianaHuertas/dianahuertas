@@ -1,113 +1,119 @@
 # Diana Huertas
 
-AI Engineer | Applied Machine Learning | Healthcare & Financial Systems
+AI Product & Strategy | Applied Machine Learning | Healthcare & Financial Systems  
+Washington, D.C.
 
 ---
 
 ## About Me
 
-I am an AI-focused engineer with a background in Information Sciences & Technology from Penn State University (2025).  
+I am an AI-focused product and strategy professional with a background in Information Science & Technology from Penn State University (GPA: 3.85).
 
-My work focuses on building intelligent systems that connect:
-- Machine learning
-- Predictive modeling
-- Healthcare diagnostics
-- Financial risk analysis
-- Business strategy
+My work sits at the intersection of:
 
-I am particularly interested in biomedical AI, intelligent health systems, and scalable AI infrastructure that creates measurable real-world impact.
+- Artificial Intelligence
+- Business Strategy
+- Healthcare Systems
+- Financial Risk Modeling
+- AI Governance & Compliance
 
----
+I specialize in translating complex machine learning systems into scalable, executive-ready solutions that drive measurable business impact.
 
-## Current Projects
-
-### 1. AI-Powered Coaching & Performance Platform
-Building a full-stack AI-powered system for:
-- Workout tracking
-- Video-based exercise analysis
-- Feedback-driven optimization
-- Income & client management systems for coaches
-- AI-assisted movement diagnostics
-
-Tech Stack:
-- Node.js / Express
-- MongoDB
-- React
-- Python (ML models)
-- REST APIs
+I am particularly interested in AI product leadership within healthcare, financial infrastructure, and regulated environments.
 
 ---
 
-### 2. Healthcare AI Research Prototype
-Developing early-stage AI models for:
-- Diagnostic support systems
-- Pattern recognition in health data
-- Predictive risk modeling
-- Clinical decision support concepts
+## What I Do
 
-Focus Areas:
-- Machine learning pipelines
-- Data preprocessing
-- Model validation
-- Ethical AI governance
+I design AI-powered systems that:
 
----
+- Transform operational workflows
+- Improve decision-making through predictive modeling
+- Integrate compliance and ethical AI governance
+- Bridge engineering teams and executive stakeholders
+- Turn data into strategic advantage
 
-### 3. Financial Risk Prediction System
-Designing predictive models for:
-- Credit risk scoring
-- Behavioral financial analysis
-- Business forecasting models
-
-Using:
-- Python
-- Pandas
-- Scikit-learn
-- SQL
-- Statistical modeling
+I focus on product vision, system architecture thinking, and real-world implementation — not just experimentation.
 
 ---
 
-## Technical Skills
+## Selected Projects
+
+### AI-Powered Risk Assessment Platform
+Designed and deployed predictive risk models using Scikit-learn (logistic regression, random forest) to evaluate investment and project success probability.
+
+- Built structured data pipelines (Python + SQL)
+- Integrated macroeconomic datasets (World Bank, IMF, BLS)
+- Implemented cross-validation & ROC-AUC optimization
+- Delivered executive dashboards via Streamlit & Power BI
+- Reduced projected financial exposure by 28%
+
+---
+
+### Adaptive Executive KPI Dashboard
+Built an adaptive performance dashboard for financial and operational forecasting.
+
+- Automated SQL-based data synchronization
+- Designed dynamic role-based interfaces
+- Improved cross-functional decision efficiency by 30%
+- Embedded AI-driven risk scoring models
+
+---
+
+### Healthcare Digital Transformation Platform
+Led modernization of healthcare workflows via AI-driven automation.
+
+- Architected Power Platform solutions
+- Integrated HIPAA-aligned reporting systems
+- Automated patient intake & operational workflows
+- Increased throughput by 40%
+
+---
+
+## Technical Foundation
 
 Languages:
 - Python
-- Java
-- JavaScript
 - SQL
+- JavaScript
 
-Frameworks & Tools:
-- Node.js
-- Express
-- MongoDB
-- Git & GitHub
+Machine Learning:
+- Scikit-learn
+- TensorFlow (Foundational)
+- Model evaluation (Cross-validation, ROC-AUC)
+
+Data & BI:
+- Pandas
+- NumPy
+- Power BI
+- Tableau
+- Azure ML
+
+Systems & Product:
 - REST APIs
-- Data modeling
-- Machine learning pipelines
+- Data pipeline architecture
+- AI governance & compliance frameworks
+- Human-Centered Design
 
-Concepts:
-- Predictive modeling
-- Data analysis
-- AI governance
-- System design
-- Runtime efficiency & data structures
-- Object-oriented design
+---
+
+## Current Focus
+
+- AI Product Strategy
+- Technical Product Management (AI)
+- Healthcare AI systems
+- Financial risk intelligence
+- Scalable AI infrastructure in regulated environments
 
 ---
 
 ## Long-Term Vision
 
-To build high-impact AI systems in:
-- Biomedical engineering
-- Intelligent diagnostics
-- Financial infrastructure
-- Ethical AI governance
-
-I aim to bridge engineering, law, and business strategy in the development of advanced intelligent systems.
+To lead the development of high-impact AI platforms that transform healthcare and financial systems through intelligent, ethical, and scalable design.
 
 ---
 
-## Connect With Me
+## Connect
 
 LinkedIn: https://www.linkedin.com/in/diana-huertas-02b18b240/
 Email: diananicoleh79@gmail.com
